@@ -1,2 +1,2 @@
 # test number 2
-For Github 
+For Github Branch, Clone, Merge, push, pull
