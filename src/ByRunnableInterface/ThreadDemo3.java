@@ -8,6 +8,7 @@ public class ThreadDemo3 {
 		t.start();
 		while(true){
 			System.out.println("main thread is running");
+	//First change		System.out.println("first test").
 		}
 	}
 
